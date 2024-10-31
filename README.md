@@ -1,6 +1,6 @@
 # Task1_House-on-Fire
 ## Circuit connection
-you can see the connection on [Tinkercad](https://www.tinkercad.com/things/jGfqBZm36dP-house-on-fire?sharecode=lX_CDIzmzLGvEeyPhak4ifepNqltVVcNASltsN89xYA)
+the circuit connection on [Tinkercad](https://www.tinkercad.com/things/jGfqBZm36dP-house-on-fire?sharecode=lX_CDIzmzLGvEeyPhak4ifepNqltVVcNASltsN89xYA)
 ![hous on fire](https://github.com/user-attachments/assets/e0507057-a49b-4b14-aa66-b6a94ed67211)
 ## How it works
 - temp sensor detects the temperature of the house.
