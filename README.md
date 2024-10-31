@@ -10,3 +10,11 @@ the circuit connection on [Tinkercad](https://www.tinkercad.com/things/jGfqBZm36
 > **Tinkercad Sketch**
 > https://www.tinkercad.com/things/jGfqBZm36dP-house-on-fire?sharecode=lX_CDIzmzLGvEeyPhak4ifepNqltVVcNASltsN89xYA
 
+>**peizo buzzer**
+>https://arduinogetstarted.com/tutorials/arduino-piezo-buzzer
+
+>**TM36 temperature sensor**
+>https://arduinogetstarted.com/tutorials/arduino-tmp36-temperature-sensor
+
+>**LCD I2C**
+>https://arduinogetstarted.com/tutorials/arduino-lcd-i2c
